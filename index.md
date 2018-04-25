@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## two questions for you: 1.Is everything a property of numbers? 2.Does time exist in math?
 
 You can use the [editor on GitHub](https://github.com/ZhangHeming1992/ZhangHeming/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
